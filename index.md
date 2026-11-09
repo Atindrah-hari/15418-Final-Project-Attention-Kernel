@@ -4,7 +4,7 @@ Raymond He, Atindrah Harishankar
 **URL:** https://atindrah-hari.github.io/15418-Final-Project-Attention-Kernel/
 
 ## Reports
-- Proposal (coming soon)
+- Proposal [Raymond and Atindrah 15418 Proposal.docx.pdf]
 - Milestone Report (coming soon)
 - Final Report (coming soon)
 
