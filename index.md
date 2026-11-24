@@ -9,6 +9,7 @@ We will implement and optimize a custom CUDA kernel for the backward pass of the
 
 ## Reports
 - [Proposal](Proposal.docx.pdf)
+- - [Milestone Report](<Raymond, Atindrah- Milestone Report.docx.pdf>)
 - Milestone Report (not finished)
 - Final Report (not finished)
 
